@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## JS Constructors Homework
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+This was a homework assignment for The Iron Yard. I had to write constructors in JS that would change the properties of set objects to meet certain conditions.
