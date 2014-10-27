@@ -25,7 +25,7 @@ function expect(target) {
         return false;
       }
     }
-  }
+  };
 }
 
 //                          __                  __
